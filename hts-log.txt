@@ -1,0 +1,14 @@
+HTTrack3.48-22+htsswf+htsjava launched on Thu, 16 Mar 2017 00:16:21 at http://dreaminglanka.cf +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://dreaminglanka.cf -O1 "C:\My Web Sites\dreaminglanka.cf" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+00:19:59	Warning: 	Retry after error -4 (No data (connection closed)) at link dreaminglanka.cf/GET (from dreaminglanka.cf/)
+00:19:59	Error: 	"Not Found" (404) at link d2cfhhp4osd3x2.cloudfront.net/90d6180/templates/skater/libs/jquery-1.10.2.min.js (from dreaminglanka.cf/)
+00:20:01	Error: 	"Not Found" (404) at link dreaminglanka.cf/GET (from dreaminglanka.cf/)
+
+HTTrack Website Copier/3.48-22 mirror complete in 3 minutes 40 seconds : 19 links scanned, 15 files written (5916721 bytes overall) [5284179 bytes received at 24018 bytes/sec], 905358 bytes transferred using HTTP compression in 10 files, ratio 29%, 1.0 requests per connection
+(2 errors, 1 warnings, 0 messages)
